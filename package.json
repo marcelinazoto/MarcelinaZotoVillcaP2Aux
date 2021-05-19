@@ -1,0 +1,11 @@
+{
+  "name": "practica2aux",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc && node ./dist/camelCase.js"
+  },
+  "author": "Marcelina",
+  "license": "ISC"
+}
