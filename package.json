@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "tsc && node ./dist/camelCase.js"
+    "build": "tsc && node ./dist/person.js"
   },
   "author": "Marcelina",
   "license": "ISC"
